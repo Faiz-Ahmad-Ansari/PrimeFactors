@@ -1,0 +1,31 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+h1{
+    margin: 1px;
+    padding: 10px;
+    text-align: center;
+}
+input{
+    width: 97%;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+}
+button{
+    width: 99%;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+}
+p{
+    margin: 1px;
+    padding: 10px;
+    text-align: center;
+}
+footer{
+    padding: 10px;
+    text-align: center;
+    color: gray;
+}
