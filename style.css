@@ -1,6 +1,7 @@
 *{
     margin: 0px;
     padding: 0px;
+    box-sizing: border-box;
 }
 h1{
     margin: 1px;
@@ -8,13 +9,13 @@ h1{
     text-align: center;
 }
 input{
-    width: 97%;
+    width: 100%;
     margin: 10px;
     padding: 10px;
     text-align: center;
 }
 button{
-    width: 99%;
+    width: 100%;
     margin: 10px;
     padding: 10px;
     text-align: center;
